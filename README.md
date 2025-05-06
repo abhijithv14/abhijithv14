@@ -40,9 +40,9 @@
 
 ### 📊 GitHub Stats
 
-![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijith14&show_icons=true&theme=tokyonight)
+![Abhijith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhijithv14&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijith14&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhijithv14&layout=compact&theme=tokyonight)
 
 ---
 
